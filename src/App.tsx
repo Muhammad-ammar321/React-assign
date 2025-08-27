@@ -1,10 +1,10 @@
 
-import Navbar from './components/assignment a1/Navbar'
-import Hero from './components/assignment a1/Hero'
-import Feature from './components/assignment a1/Feature'
-import FAQ from './components/assignment a1/FAQ'
-import NewsLetter from './components/assignment a1/Newsletter'
-import Footer from './components/assignment a1/footer'
+import Navbar from './components/navbar/Navbar'
+import Hero from './components/Hero'
+import Feature from './components/Feature'
+import FAQ from './components/FAQ'
+import NewsLetter from './components/Newsletter'
+import Footer from './components/footer'
 
 function App() {
   // const [count, setCount] = useState(0)
