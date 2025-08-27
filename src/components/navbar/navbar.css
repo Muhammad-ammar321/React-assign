@@ -5,7 +5,7 @@
         left: 0;
         top: 0.8in; 
         width: 30%;
-        transition: transform 1s ease-in-out, opacity .3s ease-in-out;
+        transition: transform 1s ease-in-out, opacity .6s ease-in-out;
         z-index: 100;
         /* opacity: 1; */
     }
