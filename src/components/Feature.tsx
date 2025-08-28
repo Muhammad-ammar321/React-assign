@@ -1,5 +1,8 @@
 import React from "react"
-const Feature: React.FC=()=> {
+
+
+const feature=[]
+const Feature: React.FC =()=> {
     return (
         <section className="bg-white dark:bg-gray-900">
             <div className="mx-auto max-w-screen-xl px-4 py-8 sm:py-16 lg:px-6">
