@@ -1,7 +1,6 @@
 import React from "react"
 
 
-const feature=[]
 const Feature: React.FC =()=> {
     return (
         <section className="bg-white dark:bg-gray-900">
