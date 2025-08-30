@@ -1,6 +1,5 @@
-import type React from "react"
 
-const Hero: React.FC=()=>{
+const Hero=()=>{
    return(
 <section className="bg-white dark:bg-gray-900">
   <div className="mx-auto grid max-w-screen-xl px-4 py-8 lg:grid-cols-12 lg:gap-8 lg:py-16 xl:gap-0">
@@ -45,6 +44,7 @@ const Hero: React.FC=()=>{
     </div>
   </div>
 </section>
+
 
 )
 }

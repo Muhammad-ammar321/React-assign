@@ -2,9 +2,9 @@
     
     .navbar{
         position: absolute;
-        left: 0;
+        right: 0;
         top: 0.8in; 
-        width: 30%;
+        width: 50%;
         transition: transform .6s ease-in-out, opacity .4s ease-in-out;
         z-index: 100;
         /* opacity: 1; */
